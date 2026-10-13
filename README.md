@@ -20,4 +20,6 @@
     - 10:00p.m. [Math](https://learn.georgebrown.ca/d2l/home/508270)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
+- [COMP1234 Midterm Study](comp1234.md)
+- [COMP1236 Midterm Study](comp1236.md)
 - [COMP1238 Important Recap for Midterm](comp1238.md)
